@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20210929</pubdate>
+                <title>RAIL_LINE_SIMPLIFIED</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This layer is maintained by the GIS Department. Data is derived from a combination of the 2019 TRO-7, imagery from the 2012 PTC (Positive Train Control) Survey, 2017-2019 NAIK survey and the 2007 LiDAR survey. </abstract>
+            <purpose>Simplified line segments of the NJ Transit system for large-scale mapping. Each line is represented by its respective starting/ending terminals.</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20210929</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Current</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-75.214414</westbc>
+                <eastbc>-73.978975</eastbc>
+                <northbc>41.488748</northbc>
+                <southbc>39.360984</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Rail</themekey>
+                <themekey>Track</themekey>
+                <themekey>Line</themekey>
+                <themekey>ROW</themekey>
+                <themekey>Infrastructure</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>transportation</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>New Jersey</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>Not for design purposes. Not survey grade data.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJ Transit</cntorg>
+                    <cntper>Aaron Reisner</cntper>
+                </cntorgp>
+                <cntpos>Senior Director of GIS</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Penn Plaza East</address>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <postal>07105</postal>
+                </cntaddr>
+                <cntvoice>973-491-7606</cntvoice>
+                <cntemail>areisner@njtransit.com</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJ Transit</cntorg>
+                    <cntper>Aaron Reisner</cntper>
+                </cntorgp>
+                <cntpos>Senior Director of GIS</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Penn Plaza East</address>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <postal>07105</postal>
+                </cntaddr>
+                <cntvoice>973-491-7606</cntvoice>
+                <cntemail>areisner@njtransit.com</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>NJ TRANSIT GIS Department.</datacred>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.0.12790</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>String</sdtstype>
+                <ptvctcnt>14</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>RAIL_LINE_SIMPLIFIED</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LINE_CODE</attrlabl>
+                <attrdef>Abbreviated line name
+
+AC:Atlantic City Line, BC:Bergen County Line, GL:Gladstone Branch, LV:Lehigh Valley Line, ML:Main Line, SL:Meadowlands Rail Line, MC:Montclair-Boonton Line, ME:Morristown Line, NC:North Jersey Coast Line, NE:Northeast Corridor Line, AMTRAK:Northeast Corridor Line South, PV:Pascack Valley Line, PRIN:Princeton Branch, RV:Raritan Valley Line, ST:Southern Tier Line</attrdef>
+                <attrdefs>NJ Transit</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LINE_NAME</attrlabl>
+                <attrdef>Full name of rail line</attrdef>
+                <attrdefs>NJ Transit</attrdefs>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20210929</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>NJ Transit</cntorg>
+                    <cntper>Aaron Reisner</cntper>
+                </cntorgp>
+                <cntpos>Director of GIS</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Penn Plaza East</address>
+                    <city>Newark</city>
+                    <state>NJ</state>
+                    <postal>07105</postal>
+                </cntaddr>
+                <cntvoice>973-491-7606</cntvoice>
+                <cntemail>areisner@njtransit.com</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

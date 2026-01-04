@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "rail_mnr_stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "stop_id": 1, "stop_name": "Grand Central", "stop_lat": 40.752998, "stop_lon": -73.977056, "GEOID": "36061", "NAMELSAD": "New York County" }, "geometry": { "type": "Point", "coordinates": [ -73.977056, 40.752998 ] } },
+{ "type": "Feature", "properties": { "stop_id": 4, "stop_name": "Harlem-125 St", "stop_lat": 40.805157, "stop_lon": -73.939149, "GEOID": "36061", "NAMELSAD": "New York County" }, "geometry": { "type": "Point", "coordinates": [ -73.939149, 40.805157 ] } },
+{ "type": "Feature", "properties": { "stop_id": 11, "stop_name": "Marble Hill", "stop_lat": 40.874333, "stop_lon": -73.910941, "GEOID": "36061", "NAMELSAD": "New York County" }, "geometry": { "type": "Point", "coordinates": [ -73.910941, 40.874333 ] } }
+]
+}

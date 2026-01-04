@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<scaleRange>
+			<maxScale>5000</maxScale>
+			<minScale>150000000</minScale>
+		</scaleRange>
+		<CreaDate>20251105</CreaDate>
+		<CreaTime>19160500</CreaTime>
+		<ModDate>2021-08-26</ModDate>
+		<ModTime>16:31:45.95</ModTime>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+		<ArcGISProfile>FGDC</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>2020-12-03</SyncDate>
+		<SyncTime>14442000</SyncTime>
+		<DataProperties>
+			<itemProps>
+				<imsContentType>002</imsContentType>
+				<itemName>RAIL_STATIONS</itemName>
+				<nativeExtBox>
+					<westBL>300860.324636</westBL>
+					<eastBL>634837.338439</eastBL>
+					<southBL>193016.984271</southBL>
+					<northBL>961073.692905</northBL>
+					<exTypeCode>1</exTypeCode>
+				</nativeExtBox>
+			</itemProps>
+			<coordRef>
+				<type>Projected</type>
+				<geogcsn>GCS_North_American_1983</geogcsn>
+				<projcsn>NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</projcsn>
+				<csUnits>Linear Unit: Foot_US (0.304801)</csUnits>
+				<peXml>&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.8'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,492125.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-74.5],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9999],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,38.83333333333334],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,3424]]&lt;/WKT&gt;&lt;XOrigin&gt;-17954600&lt;/XOrigin&gt;&lt;YOrigin&gt;-46918100&lt;/YOrigin&gt;&lt;XYScale&gt;3048.0060960121905&lt;/XYScale&gt;&lt;ZOrigin&gt;0&lt;/ZOrigin&gt;&lt;ZScale&gt;1&lt;/ZScale&gt;&lt;MOrigin&gt;0&lt;/MOrigin&gt;&lt;MScale&gt;1&lt;/MScale&gt;&lt;XYTolerance&gt;0.00328083333333333&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102711&lt;/WKID&gt;&lt;LatestWKID&gt;3424&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+	</Esri>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<mdFileID>1626890080229r1910105241961091</mdFileID>
+	<mdLang>
+		<languageCode value="eng"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<rpIndName>Aaron Reisner</rpIndName>
+		<rpOrgName>NJ Transit</rpOrgName>
+		<rpPosName>Senior Director of GIS</rpPosName>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+		<rpCntInfo>
+			<cntAddress addressType="postal">
+				<eMailAdd>areisner@njtransit.com</eMailAdd>
+				<delPoint>1 Penn Plaza East</delPoint>
+				<city>Newark</city>
+				<adminArea>New Jersey</adminArea>
+				<postCode>07105</postCode>
+				<country>US</country>
+			</cntAddress>
+			<cntPhone>
+				<voiceNum>(973) 491-7606</voiceNum>
+			</cntPhone>
+		</rpCntInfo>
+	</mdContact>
+	<mdDateSt>2021-07-21</mdDateSt>
+	<mdTimeSt>13:54:39.77</mdTimeSt>
+	<mdMaint>
+		<maintFreq>
+			<MaintFreqCd value="011"/>
+		</maintFreq>
+		<maintCont>
+			<rpIndName>Aaron Reisner</rpIndName>
+			<rpOrgName>NJ Transit</rpOrgName>
+			<rpPosName>Senior Director of GIS</rpPosName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+			<rpCntInfo>
+				<cntAddress addressType="postal">
+					<eMailAdd>areisner@njtransit.com</eMailAdd>
+					<delPoint>1 Penn Plaza East</delPoint>
+					<city>Newark</city>
+					<adminArea>New Jersey</adminArea>
+					<postCode>07105</postCode>
+					<country>US</country>
+				</cntAddress>
+				<cntPhone>
+					<voiceNum>(973) 491-7606</voiceNum>
+				</cntPhone>
+			</rpCntInfo>
+		</maintCont>
+	</mdMaint>
+	<mdConst>
+		<SecConsts>
+			<class>
+				<ClasscationCd value="001"/>
+			</class>
+		</SecConsts>
+	</mdConst>
+	<spdoinfo>
+		<ptvctinf>
+			<esriterm Name="RAIL_STATIONS">
+				<efeatyp>Simple</efeatyp>
+				<efeageom code="1"/>
+				<esritopo>FALSE</esritopo>
+				<efeacnt>167</efeacnt>
+				<spindex>TRUE</spindex>
+				<linrefer>FALSE</linrefer>
+			</esriterm>
+		</ptvctinf>
+	</spdoinfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Rail Stations of NJ Transit</resTitle>
+			<resAltTitle>Rail Stations of NJ Transit</resAltTitle>
+			<date>
+				<createDate>2021-07-21</createDate>
+				<pubDate>2021-07-21</pubDate>
+				<reviseDate>2021-07-21</reviseDate>
+			</date>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+			<citRespParty>
+				<rpIndName>Aaron Reisner</rpIndName>
+				<rpOrgName>NJ Transit</rpOrgName>
+				<rpPosName>Senior Director of GIS</rpPosName>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress addressType="postal">
+						<eMailAdd>areisner@njtransit.com</eMailAdd>
+						<delPoint>1 Penn Plaza East</delPoint>
+						<city>Newark</city>
+						<adminArea>New Jersery</adminArea>
+						<postCode>07105</postCode>
+						<country>US</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>(973) 491-7606</voiceNum>
+					</cntPhone>
+				</rpCntInfo>
+			</citRespParty>
+		</idCitation>
+		<idAbs>This layer is maintained by the GIS Department. Data is derived from a combination of the 2019 TRO-7, imagery from the 2012 PTC (Positive Train Control) Survey, 2017-2019 NAIK survey and the 2007 LiDAR survey. This DRAFT data is being provided as a general reference and is not meant to replace official sources (such as the TRO-7 or any asset management system). Data should be checked against official sources before use. To inquire about obtaining this layer or making additions and/or edits, please contact the GIS Department.</idAbs>
+		<idPurp>Serviced NJ Transit rail stations.</idPurp>
+		<idCredit>NJ Transit GIS Department.</idCredit>
+		<dataLang>
+			<languageCode value="eng"/>
+			<countryCode value="US"/>
+		</dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<tpCat>
+			<TopicCatCd value="018"/>
+		</tpCat>
+		<searchKeys>
+			<keyword>Rail</keyword>
+			<keyword>Station</keyword>
+			<keyword>Line</keyword>
+			<keyword>Right of way</keyword>
+			<keyword>Infrastructure</keyword>
+		</searchKeys>
+		<themeKeys>
+			<keyword>Rail</keyword>
+			<keyword>Station</keyword>
+			<keyword>Line</keyword>
+			<keyword>Right of way</keyword>
+			<keyword>Infrastructure</keyword>
+		</themeKeys>
+		<placeKeys>
+			<keyword>New Jersey</keyword>
+		</placeKeys>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>1</exTypeCode>
+					<westBL>-75.197949</westBL>
+					<eastBL>-73.979217</eastBL>
+					<southBL>39.361352</southBL>
+					<northBL>41.471765</northBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2021-07-21</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<idPoC>
+			<rpIndName>Aaron Reisner</rpIndName>
+			<rpOrgName>NJ Transit</rpOrgName>
+			<rpPosName>Senior Director of GIS</rpPosName>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+			<rpCntInfo>
+				<cntAddress addressType="postal">
+					<eMailAdd>areisner@njtransit.com</eMailAdd>
+					<delPoint>1 Penn Plaza East</delPoint>
+					<city>Newark</city>
+					<adminArea>New Jersey</adminArea>
+					<postCode>07105</postCode>
+					<country>US</country>
+				</cntAddress>
+				<cntPhone>
+					<voiceNum>(973) 491-7606</voiceNum>
+				</cntPhone>
+			</rpCntInfo>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="011"/>
+			</maintFreq>
+			<maintCont>
+				<rpIndName>Aaron Reisner</rpIndName>
+				<rpOrgName>NJ Transit</rpOrgName>
+				<rpPosName>Senior Director of GIS</rpPosName>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress addressType="postal">
+						<eMailAdd>areisner@njtransit.com</eMailAdd>
+						<delPoint>1 Penn Plaza East</delPoint>
+						<city>Newark</city>
+						<adminArea>New Jersey</adminArea>
+						<postCode>07105</postCode>
+						<country>US</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>(973) 491-7606</voiceNum>
+					</cntPhone>
+				</rpCntInfo>
+			</maintCont>
+		</resMaint>
+		<resConst>
+			<Consts>
+				<useLimit>Not for design purposes. Data is NOT survey grade.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Other Constraints</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+	<distInfo>
+		<distFormat>
+			<formatName>Feature Class</formatName>
+		</distFormat>
+	</distInfo>
+	<eainfo>
+		<detailed Name="RAIL_STATIONS">
+			<enttyp>
+				<enttypl>Rail Stations of NJ Transit</enttypl>
+				<enttypd>Feature Class</enttypd>
+				<enttypds>ESRI</enttypds>
+				<enttypt>Feature Class</enttypt>
+				<enttypc>167</enttypc>
+			</enttyp>
+			<attr>
+				<attrlabl>OBJECTID_1</attrlabl>
+				<attalias>OBJECTID_1</attalias>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrtype>OID</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>10</atprecis>
+				<attscale>0</attscale>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STATION_ID</attrlabl>
+				<attalias>STATION_ID</attalias>
+				<attrdef>Station name</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>30</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>COUNTY</attrlabl>
+				<attalias>COUNTY</attalias>
+				<attrdef>County</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>30</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LATITUDE</attrlabl>
+				<attalias>LATITUDE</attalias>
+				<attrdef>Latitude coordinate</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>Double</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>38</atprecis>
+				<attscale>8</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LONGITUDE</attrlabl>
+				<attalias>LONGITUDE</attalias>
+				<attrdef>Longitude coordinate</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>Double</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>38</atprecis>
+				<attscale>8</attscale>
+			</attr>
+			<attr>
+				<attrlabl>ATIS_ID</attrlabl>
+				<attalias>ATIS_ID</attalias>
+				<attrdef>Unique ID from ATIS system</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attalias>SHAPE</attalias>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>Esri</attrdefs>
+				<attrtype>Geometry</attrtype>
+				<attwidth>4</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+				<attalias>SE_ANNO_CAD_DATA</attalias>
+				<attrtype>Blob</attrtype>
+				<attwidth>0</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE</attrlabl>
+				<attalias>SOURCE</attalias>
+				<attrdef>Source from which data was derived and/or reconciled</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>50</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>GPS_SURVEY</attrlabl>
+				<attalias>GPS_SURVEY</attalias>
+				<attrdef>Date of field survey if occurred</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>25</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LINE_CODE</attrlabl>
+				<attalias>LINE_CODE</attalias>
+				<attrdef>"Abbreviated line name
+
+AC:Atlantic City Line, BC:Bergen County Line, GL:Gladstone Branch, LV:Lehigh Valley Line, ML:Main Line, SL:Meadowlands Rail Line, MC:Montclair-Boonton Line, ME:Morristown Line, NC:North Jersey Coast Line, NE:Northeast Corridor Line, AMTRAK:Northeast Corridor Line South, PV:Pascack Valley Line, PRIN:Princeton Branch, RV:Raritan Valley Line, ST:Southern Tier Line</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>20</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>CREATED_USER</attrlabl>
+				<attalias>CREATED_USER</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>255</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>CREATED_DATE</attrlabl>
+				<attalias>CREATED_DATE</attalias>
+				<attrtype>Date</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LAST_EDITED_USER</attrlabl>
+				<attalias>LAST_EDITED_USER</attalias>
+				<attrtype>String</attrtype>
+				<attwidth>255</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LAST_EDITED_DATE</attrlabl>
+				<attalias>LAST_EDITED_DATE</attalias>
+				<attrtype>Date</attrtype>
+				<attwidth>8</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>LAYER</attrlabl>
+				<attalias>LAYER</attalias>
+				<attrdef>Layer name</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>50</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>MUNICIPALITY</attrlabl>
+				<attalias>MUNICIPALITY</attalias>
+				<attrdef>Municipality</attrdef>
+				<attrtype>String</attrtype>
+				<attwidth>50</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+			<attr>
+				<attrlabl>RAIL_SERVICE</attrlabl>
+				<attalias>RAIL_SERVICE</attalias>
+				<attrdef>Lines serving station</attrdef>
+				<attrdefs>NJ Transit</attrdefs>
+				<attrtype>String</attrtype>
+				<attwidth>50</attwidth>
+				<atprecis>0</atprecis>
+				<attscale>0</attscale>
+			</attr>
+		</detailed>
+	</eainfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="3424"/>
+				<idCodeSpace>EPSG</idCodeSpace>
+				<idVersion>8.9.3(9.3.0.0)</idVersion>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+</metadata>

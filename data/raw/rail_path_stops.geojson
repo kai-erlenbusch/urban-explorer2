@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "rail_path_stops",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 8, "STATION_ID": "WORLD TRADE CENTER", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "World Trade Center" }, "geometry": { "type": "Point", "coordinates": [ -74.012133639992456, 40.711288912609831 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "STATION_ID": "CHRISTOPHER ST", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "Christopher St" }, "geometry": { "type": "Point", "coordinates": [ -74.006919640055926, 40.732893913041103 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "STATION_ID": "9TH ST", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "9th St" }, "geometry": { "type": "Point", "coordinates": [ -73.999098639923105, 40.734289913012972 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "STATION_ID": "14TH ST", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "14th St" }, "geometry": { "type": "Point", "coordinates": [ -73.996829639450553, 40.737369912670353 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "STATION_ID": "23RD ST", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "23rd St" }, "geometry": { "type": "Point", "coordinates": [ -73.992799638968762, 40.742889913154443 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "STATION_ID": "33RD ST", "RAIL_LINE": "PATH", "LOCATION": null, "COUNTY": "NEW YORK", "LATITUDE": 0, "LONGITUDE": 0, "Station_lo": "33rd St" }, "geometry": { "type": "Point", "coordinates": [ -73.988219639686847, 40.749129912877237 ] } }
+]
+}
